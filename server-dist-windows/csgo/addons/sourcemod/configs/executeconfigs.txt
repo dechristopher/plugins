@@ -1,0 +1,8 @@
+"Configs"
+{
+	"*"
+	{
+		"event:player_spawn"	"300:shutdown5.cfg"
+		"clients:11"    "20:allconnected.cfg"
+	}
+}

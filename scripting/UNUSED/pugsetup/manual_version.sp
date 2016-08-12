@@ -1,0 +1,2 @@
+#define PLUGIN_VERSION "2.0.0-dev+376"
+#define COMMIT_STRING "6f42760"

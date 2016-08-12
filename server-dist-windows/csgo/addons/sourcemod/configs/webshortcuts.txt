@@ -1,0 +1,18 @@
+// usage: "trigger" "Define Windows size" http://www.site.com
+// tags: {NAME} {STEAM_ID} {USER_ID} {IP} {SERVER_IP} {SERVER_PORT}
+//
+//
+// Hidden motd testing
+//
+// If you dont want to show a windows, only a hidden motd, put "none" instead of the windows size
+// Also you can use "about:blank" for stop the motd
+//
+"!soundmotd" "none" http://youtu.be/uq2JN5O16aE
+"!stopmotd" "none" about:blank
+//
+// fit to screen feature testing
+//
+// Use "full" instead of the windows size for adjust the windows size to the client resolution
+//
+"!phoon" "none" https://cdn.kiir.us/media/phoon.wav
+"!unphoon" "none" about:blank

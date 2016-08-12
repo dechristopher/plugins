@@ -1,0 +1,8 @@
+L 05/29/2016 - 10:13:29: SourceMod error session started
+L 05/29/2016 - 10:13:29: Info (map "de_dust2") (file "errors_20160529.log")
+L 05/29/2016 - 10:13:29: [SM] Exception reported: Could not connect to kiwi database: [2005]: Unknown MySQL server host 'kiir.us REMOVETHISPLEASE' (1)
+L 05/29/2016 - 10:13:29: [SM] Blaming: kiwi-mysqlstats.smx()
+L 05/29/2016 - 10:13:29: [SM] Call stack trace:
+L 05/29/2016 - 10:13:29: [SM]   [0] SetFailState
+L 05/29/2016 - 10:13:29: [SM]   [1] Line 35, kiwi-mysqlstats.sp::OnPluginStart()
+L 05/29/2016 - 10:13:29: [SM] Unable to load plugin "kiwi-mysqlstats.smx": Error detected in plugin startup (see error logs)

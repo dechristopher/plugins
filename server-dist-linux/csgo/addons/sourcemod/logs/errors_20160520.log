@@ -1,0 +1,4 @@
+L 05/20/2016 - 22:37:31: SourceMod error session started
+L 05/20/2016 - 22:37:31: Info (map "de_dust2") (file "errors_20160520.log")
+L 05/20/2016 - 22:37:31: [SM] Unable to load plugin "kiwi-mysqlstats.smx": Could not find required plugin "kiwi"
+L 05/20/2016 - 22:45:58: Error log file session closed.

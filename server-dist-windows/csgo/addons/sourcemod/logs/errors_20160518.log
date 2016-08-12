@@ -1,0 +1,78 @@
+L 05/18/2016 - 01:16:56: SourceMod error session started
+L 05/18/2016 - 01:16:56: Info (map "de_cache") (file "errors_20160518.log")
+L 05/18/2016 - 01:16:56: Error log file session closed.
+L 05/18/2016 - 01:17:00: SourceMod error session started
+L 05/18/2016 - 01:17:00: Info (map "de_dust2") (file "errors_20160518.log")
+L 05/18/2016 - 01:17:00: [SM] Exception reported: Could not connect to get5 database: [2013]: Lost connection to MySQL server at 'reading initial communication packet', system error: 111
+L 05/18/2016 - 01:17:00: [SM] Blaming: kiwi_mysqlstats.smx()
+L 05/18/2016 - 01:17:00: [SM] Call stack trace:
+L 05/18/2016 - 01:17:00: [SM]   [0] SetFailState
+L 05/18/2016 - 01:17:00: [SM]   [1] Line 32, kiwi_mysqlstats.sp::OnPluginStart()
+L 05/18/2016 - 01:17:00: [SM] Unable to load plugin "kiwi_mysqlstats.smx": Error detected in plugin startup (see error logs)
+L 05/18/2016 - 01:17:35: Error log file session closed.
+L 05/18/2016 - 01:17:38: SourceMod error session started
+L 05/18/2016 - 01:17:38: Info (map "de_dust2") (file "errors_20160518.log")
+L 05/18/2016 - 01:17:38: [SM] Exception reported: Could not connect to get5 database: [2013]: Lost connection to MySQL server at 'reading initial communication packet', system error: 111
+L 05/18/2016 - 01:17:38: [SM] Blaming: kiwi_mysqlstats.smx()
+L 05/18/2016 - 01:17:38: [SM] Call stack trace:
+L 05/18/2016 - 01:17:38: [SM]   [0] SetFailState
+L 05/18/2016 - 01:17:38: [SM]   [1] Line 32, kiwi_mysqlstats.sp::OnPluginStart()
+L 05/18/2016 - 01:17:38: [SM] Unable to load plugin "kiwi_mysqlstats.smx": Error detected in plugin startup (see error logs)
+L 05/18/2016 - 01:18:49: Error log file session closed.
+L 05/18/2016 - 02:00:49: SourceMod error session started
+L 05/18/2016 - 02:00:49: Info (map "de_cache") (file "errors_20160518.log")
+L 05/18/2016 - 02:00:49: [kiwi.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 05/18/2016 - 02:02:11: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 1, 'drop', 0, 1, 0' at line 1
+L 05/18/2016 - 02:02:11: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 1, 'ryanpdx/shitty' at line 1
+L 05/18/2016 - 02:02:48: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 2, 'drop', 0, 2, 0' at line 1
+L 05/18/2016 - 02:02:48: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 2, 'ryanpdx/shitty' at line 1
+L 05/18/2016 - 02:03:39: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 3, 'drop', 1, 2, 0' at line 1
+L 05/18/2016 - 02:03:39: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 3, 'ryanpdx/shitty' at line 1
+L 05/18/2016 - 02:04:11: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 4, 'drop', 2, 2, 0' at line 1
+L 05/18/2016 - 02:04:11: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 4, 'ryanpdx/shitty' at line 1
+L 05/18/2016 - 02:04:56: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 5, 'drop', 3, 2, 0' at line 1
+L 05/18/2016 - 02:04:56: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 5, 'ryanpdx/shitty' at line 1
+L 05/18/2016 - 02:05:28: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 6, 'drop', 4, 2, 0' at line 1
+L 05/18/2016 - 02:05:28: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 6, 'ryanpdx', 2, 4' at line 1
+L 05/18/2016 - 02:06:00: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 7, 'drop', 4, 3, 0' at line 1
+L 05/18/2016 - 02:06:00: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 7, 'ryanpdx', 3, 4' at line 1
+L 05/18/2016 - 02:06:50: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 8, 'drop', 5, 3, 0' at line 1
+L 05/18/2016 - 02:06:50: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 8, 'ryanpdx', 3, 5' at line 1
+L 05/18/2016 - 02:07:24: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 9, 'drop', 6, 3, 0' at line 1
+L 05/18/2016 - 02:07:24: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 9, 'ryanpdx', 3, 6' at line 1
+L 05/18/2016 - 02:07:58: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 10, 'drop', 6, 4, ' at line 1
+L 05/18/2016 - 02:07:58: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 10, 'ryanpdx', 4, ' at line 1
+L 05/18/2016 - 02:08:31: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 11, 'drop', 6, 5, ' at line 1
+L 05/18/2016 - 02:08:31: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 11, 'ryanpdx', 5, ' at line 1
+L 05/18/2016 - 02:09:06: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 12, 'drop', 7, 5, ' at line 1
+L 05/18/2016 - 02:09:06: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 12, 'ryanpdx', 5, ' at line 1
+L 05/18/2016 - 02:09:51: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 13, 'drop', 8, 5, ' at line 1
+L 05/18/2016 - 02:09:51: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 13, 'ryanpdx', 5, ' at line 1
+L 05/18/2016 - 02:10:31: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 14, 'drop', 8, 6, ' at line 1
+L 05/18/2016 - 02:10:31: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 14, 'ryanpdx', 6, ' at line 1
+L 05/18/2016 - 02:11:04: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 15, 'drop', 9, 6, ' at line 1
+L 05/18/2016 - 02:11:04: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 15, 'ryanpdx', 6, ' at line 1
+L 05/18/2016 - 02:11:57: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 16, 'drop', 10, 6,' at line 1
+L 05/18/2016 - 02:11:57: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 16, 'ryanpdx', 6, ' at line 1
+L 05/18/2016 - 02:12:30: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 17, 'drop', 11, 6,' at line 1
+L 05/18/2016 - 02:12:30: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 17, 'ryanpdx', 6, ' at line 1
+L 05/18/2016 - 02:13:10: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 18, 'drop', 12, 6,' at line 1
+L 05/18/2016 - 02:13:10: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 18, 'ryanpdx', 6, ' at line 1
+L 05/18/2016 - 02:13:51: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 19, 'drop', 13, 6,' at line 1
+L 05/18/2016 - 02:13:51: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 19, 'ryanpdx', 6, ' at line 1
+L 05/18/2016 - 02:15:41: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 20, 'drop', 14, 6,' at line 1
+L 05/18/2016 - 02:15:41: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 20, 'ryanpdx', 6, ' at line 1
+L 05/18/2016 - 02:16:24: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 21, 'drop', 15, 6,' at line 1
+L 05/18/2016 - 02:16:24: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 21, 'ryanpdx', 6, ' at line 1
+L 05/18/2016 - 02:16:59: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561197960345708', 'team1', 22, 'drop', 16, 6,' at line 1
+L 05/18/2016 - 02:16:59: [kiwi_mysqlstats.smx] Last Connect SQL Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2k, 3k, 4k, 5k, ) VALUES (1, 0, '76561198268638429', 'team2', 22, 'ryanpdx', 6, ' at line 1
+L 05/18/2016 - 02:52:20: [SM] Exception reported: Plugin not runnable
+L 05/18/2016 - 02:52:22: Error log file session closed.
+L 05/18/2016 - 02:55:22: SourceMod error session started
+L 05/18/2016 - 02:55:22: Info (map "de_cache") (file "errors_20160518.log")
+L 05/18/2016 - 02:55:22: [kiwi.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 05/18/2016 - 03:56:26: Error log file session closed.
+L 05/18/2016 - 13:43:17: SourceMod error session started
+L 05/18/2016 - 13:43:17: Info (map "de_cache") (file "errors_20160518.log")
+L 05/18/2016 - 13:43:17: [SM] Exception reported: Plugin not runnable
+L 05/18/2016 - 13:43:17: Error log file session closed.

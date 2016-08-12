@@ -1,0 +1,202 @@
+L 05/27/2016 - 02:19:38: SourceMod error session started
+L 05/27/2016 - 02:19:38: Info (map "de_dust2") (file "errors_20160527.log")
+L 05/27/2016 - 02:19:38: [SM] Exception reported: Could not connect to kiwi database: [2005]: Unknown MySQL server host 'kiir.us REMOVETHISPLEASE' (1)
+L 05/27/2016 - 02:19:38: [SM] Blaming: kiwi-mysqlstats.smx()
+L 05/27/2016 - 02:19:38: [SM] Call stack trace:
+L 05/27/2016 - 02:19:38: [SM]   [0] SetFailState
+L 05/27/2016 - 02:19:38: [SM]   [1] Line 35, kiwi-mysqlstats.sp::OnPluginStart()
+L 05/27/2016 - 02:19:38: [SM] Unable to load plugin "kiwi-mysqlstats.smx": Error detected in plugin startup (see error logs)
+L 05/27/2016 - 02:39:08: Error log file session closed.
+L 05/27/2016 - 02:40:03: SourceMod error session started
+L 05/27/2016 - 02:40:03: Info (map "de_cbble") (file "errors_20160527.log")
+L 05/27/2016 - 02:40:03: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 02:40:03: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 02:40:03: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 02:40:03: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 02:40:03: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 02:40:03: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 02:40:03: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 02:40:03: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 02:40:03: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 02:40:03: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 02:43:28: Error log file session closed.
+L 05/27/2016 - 02:43:41: SourceMod error session started
+L 05/27/2016 - 02:43:41: Info (map "de_dust2") (file "errors_20160527.log")
+L 05/27/2016 - 02:43:41: [SM] Exception reported: Could not connect to kiwi database: [2005]: Unknown MySQL server host 'kiir.us REMOVETHISPLEASE' (1)
+L 05/27/2016 - 02:43:41: [SM] Blaming: kiwi-mysqlstats.smx()
+L 05/27/2016 - 02:43:41: [SM] Call stack trace:
+L 05/27/2016 - 02:43:41: [SM]   [0] SetFailState
+L 05/27/2016 - 02:43:41: [SM]   [1] Line 35, kiwi-mysqlstats.sp::OnPluginStart()
+L 05/27/2016 - 02:43:41: [SM] Unable to load plugin "kiwi-mysqlstats.smx": Error detected in plugin startup (see error logs)
+L 05/27/2016 - 02:52:15: Error log file session closed.
+L 05/27/2016 - 02:52:42: SourceMod error session started
+L 05/27/2016 - 02:52:42: Info (map "de_dust2") (file "errors_20160527.log")
+L 05/27/2016 - 02:52:42: [SM] Exception reported: Could not connect to kiwi database: [2005]: Unknown MySQL server host 'kiir.us REMOVETHISPLEASE' (1)
+L 05/27/2016 - 02:52:42: [SM] Blaming: kiwi-mysqlstats.smx()
+L 05/27/2016 - 02:52:42: [SM] Call stack trace:
+L 05/27/2016 - 02:52:42: [SM]   [0] SetFailState
+L 05/27/2016 - 02:52:42: [SM]   [1] Line 35, kiwi-mysqlstats.sp::OnPluginStart()
+L 05/27/2016 - 02:52:42: [SM] Unable to load plugin "kiwi-mysqlstats.smx": Error detected in plugin startup (see error logs)
+L 05/27/2016 - 03:09:36: Error log file session closed.
+L 05/27/2016 - 03:16:04: SourceMod error session started
+L 05/27/2016 - 03:16:04: Info (map "de_dust2") (file "errors_20160527.log")
+L 05/27/2016 - 03:16:04: [SM] Exception reported: Could not connect to kiwi database: [2005]: Unknown MySQL server host 'kiir.us REMOVETHISPLEASE' (1)
+L 05/27/2016 - 03:16:04: [SM] Blaming: kiwi-mysqlstats.smx()
+L 05/27/2016 - 03:16:04: [SM] Call stack trace:
+L 05/27/2016 - 03:16:04: [SM]   [0] SetFailState
+L 05/27/2016 - 03:16:04: [SM]   [1] Line 35, kiwi-mysqlstats.sp::OnPluginStart()
+L 05/27/2016 - 03:16:04: [SM] Unable to load plugin "kiwi-mysqlstats.smx": Error detected in plugin startup (see error logs)
+L 05/27/2016 - 03:18:34: Error log file session closed.
+L 05/27/2016 - 03:28:36: SourceMod error session started
+L 05/27/2016 - 03:28:36: Info (map "de_overpass") (file "errors_20160527.log")
+L 05/27/2016 - 03:28:36: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:28:36: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:28:36: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:28:36: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:28:36: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:28:36: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:28:36: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:28:36: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:28:37: Error log file session closed.
+L 05/27/2016 - 03:34:03: SourceMod error session started
+L 05/27/2016 - 03:34:03: Info (map "de_dust2") (file "errors_20160527.log")
+L 05/27/2016 - 03:34:03: [SM] Exception reported: Could not connect to kiwi database: [2005]: Unknown MySQL server host 'kiir.us REMOVETHISPLEASE' (1)
+L 05/27/2016 - 03:34:03: [SM] Blaming: kiwi-mysqlstats.smx()
+L 05/27/2016 - 03:34:03: [SM] Call stack trace:
+L 05/27/2016 - 03:34:03: [SM]   [0] SetFailState
+L 05/27/2016 - 03:34:03: [SM]   [1] Line 35, kiwi-mysqlstats.sp::OnPluginStart()
+L 05/27/2016 - 03:34:03: [SM] Unable to load plugin "kiwi-mysqlstats.smx": Error detected in plugin startup (see error logs)
+L 05/27/2016 - 03:36:33: Error log file session closed.
+L 05/27/2016 - 03:41:37: SourceMod error session started
+L 05/27/2016 - 03:41:37: Info (map "de_cbble") (file "errors_20160527.log")
+L 05/27/2016 - 03:41:37: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:41:37: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:41:37: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:41:37: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:41:37: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:41:37: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:41:37: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:41:37: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:41:38: Error log file session closed.
+L 05/27/2016 - 03:47:05: SourceMod error session started
+L 05/27/2016 - 03:47:05: Info (map "de_dust2") (file "errors_20160527.log")
+L 05/27/2016 - 03:47:05: [SM] Exception reported: Could not connect to kiwi database: [2005]: Unknown MySQL server host 'kiir.us REMOVETHISPLEASE' (1)
+L 05/27/2016 - 03:47:05: [SM] Blaming: kiwi-mysqlstats.smx()
+L 05/27/2016 - 03:47:05: [SM] Call stack trace:
+L 05/27/2016 - 03:47:05: [SM]   [0] SetFailState
+L 05/27/2016 - 03:47:05: [SM]   [1] Line 35, kiwi-mysqlstats.sp::OnPluginStart()
+L 05/27/2016 - 03:47:05: [SM] Unable to load plugin "kiwi-mysqlstats.smx": Error detected in plugin startup (see error logs)
+L 05/27/2016 - 03:47:13: Error log file session closed.
+L 05/27/2016 - 03:47:27: SourceMod error session started
+L 05/27/2016 - 03:47:27: Info (map "de_dust2") (file "errors_20160527.log")
+L 05/27/2016 - 03:47:27: [SM] Exception reported: Could not connect to kiwi database: [2005]: Unknown MySQL server host 'kiir.us REMOVETHISPLEASE' (1)
+L 05/27/2016 - 03:47:27: [SM] Blaming: kiwi-mysqlstats.smx()
+L 05/27/2016 - 03:47:27: [SM] Call stack trace:
+L 05/27/2016 - 03:47:27: [SM]   [0] SetFailState
+L 05/27/2016 - 03:47:27: [SM]   [1] Line 35, kiwi-mysqlstats.sp::OnPluginStart()
+L 05/27/2016 - 03:47:27: [SM] Unable to load plugin "kiwi-mysqlstats.smx": Error detected in plugin startup (see error logs)
+L 05/27/2016 - 03:48:18: Error log file session closed.
+L 05/27/2016 - 03:49:53: SourceMod error session started
+L 05/27/2016 - 03:49:53: Info (map "de_mirage") (file "errors_20160527.log")
+L 05/27/2016 - 03:49:53: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:49:53: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:49:53: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:49:53: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:49:53: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:49:53: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:49:53: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:49:53: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 03:49:54: Error log file session closed.
+L 05/27/2016 - 03:53:13: SourceMod error session started
+L 05/27/2016 - 03:53:13: Info (map "de_dust2") (file "errors_20160527.log")
+L 05/27/2016 - 03:53:13: [SM] Exception reported: Could not connect to kiwi database: [2005]: Unknown MySQL server host 'kiir.us REMOVETHISPLEASE' (1)
+L 05/27/2016 - 03:53:13: [SM] Blaming: kiwi-mysqlstats.smx()
+L 05/27/2016 - 03:53:13: [SM] Call stack trace:
+L 05/27/2016 - 03:53:13: [SM]   [0] SetFailState
+L 05/27/2016 - 03:53:13: [SM]   [1] Line 35, kiwi-mysqlstats.sp::OnPluginStart()
+L 05/27/2016 - 03:53:13: [SM] Unable to load plugin "kiwi-mysqlstats.smx": Error detected in plugin startup (see error logs)
+L 05/27/2016 - 03:54:18: Error log file session closed.
+L 05/27/2016 - 03:58:29: SourceMod error session started
+L 05/27/2016 - 03:58:29: Info (map "de_dust2") (file "errors_20160527.log")
+L 05/27/2016 - 03:58:29: [SM] Exception reported: Could not connect to kiwi database: [2005]: Unknown MySQL server host 'kiir.us REMOVETHISPLEASE' (1)
+L 05/27/2016 - 03:58:29: [SM] Blaming: kiwi-mysqlstats.smx()
+L 05/27/2016 - 03:58:29: [SM] Call stack trace:
+L 05/27/2016 - 03:58:29: [SM]   [0] SetFailState
+L 05/27/2016 - 03:58:29: [SM]   [1] Line 35, kiwi-mysqlstats.sp::OnPluginStart()
+L 05/27/2016 - 03:58:29: [SM] Unable to load plugin "kiwi-mysqlstats.smx": Error detected in plugin startup (see error logs)
+L 05/27/2016 - 03:59:20: Error log file session closed.
+L 05/27/2016 - 04:00:38: SourceMod error session started
+L 05/27/2016 - 04:00:38: Info (map "de_dust2") (file "errors_20160527.log")
+L 05/27/2016 - 04:00:38: [SM] Exception reported: Could not connect to kiwi database: [2005]: Unknown MySQL server host 'kiir.us REMOVETHISPLEASE' (1)
+L 05/27/2016 - 04:00:38: [SM] Blaming: kiwi-mysqlstats.smx()
+L 05/27/2016 - 04:00:38: [SM] Call stack trace:
+L 05/27/2016 - 04:00:38: [SM]   [0] SetFailState
+L 05/27/2016 - 04:00:38: [SM]   [1] Line 35, kiwi-mysqlstats.sp::OnPluginStart()
+L 05/27/2016 - 04:00:38: [SM] Unable to load plugin "kiwi-mysqlstats.smx": Error detected in plugin startup (see error logs)
+L 05/27/2016 - 04:01:20: Error log file session closed.
+L 05/27/2016 - 04:03:35: SourceMod error session started
+L 05/27/2016 - 04:03:35: Info (map "de_dust2") (file "errors_20160527.log")
+L 05/27/2016 - 04:03:35: [SM] Exception reported: Could not connect to kiwi database: [2005]: Unknown MySQL server host 'kiir.us REMOVETHISPLEASE' (1)
+L 05/27/2016 - 04:03:35: [SM] Blaming: kiwi-mysqlstats.smx()
+L 05/27/2016 - 04:03:35: [SM] Call stack trace:
+L 05/27/2016 - 04:03:35: [SM]   [0] SetFailState
+L 05/27/2016 - 04:03:35: [SM]   [1] Line 35, kiwi-mysqlstats.sp::OnPluginStart()
+L 05/27/2016 - 04:03:35: [SM] Unable to load plugin "kiwi-mysqlstats.smx": Error detected in plugin startup (see error logs)
+L 05/27/2016 - 04:04:39: Error log file session closed.
+L 05/27/2016 - 04:06:34: SourceMod error session started
+L 05/27/2016 - 04:06:34: Info (map "de_dust2") (file "errors_20160527.log")
+L 05/27/2016 - 04:06:34: [SM] Exception reported: Could not connect to kiwi database: [2005]: Unknown MySQL server host 'kiir.us REMOVETHISPLEASE' (1)
+L 05/27/2016 - 04:06:34: [SM] Blaming: kiwi-mysqlstats.smx()
+L 05/27/2016 - 04:06:34: [SM] Call stack trace:
+L 05/27/2016 - 04:06:34: [SM]   [0] SetFailState
+L 05/27/2016 - 04:06:34: [SM]   [1] Line 35, kiwi-mysqlstats.sp::OnPluginStart()
+L 05/27/2016 - 04:06:34: [SM] Unable to load plugin "kiwi-mysqlstats.smx": Error detected in plugin startup (see error logs)
+L 05/27/2016 - 04:07:43: Error log file session closed.
+L 05/27/2016 - 04:08:38: SourceMod error session started
+L 05/27/2016 - 04:08:38: Info (map "de_dust2") (file "errors_20160527.log")
+L 05/27/2016 - 04:08:38: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 04:08:38: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 04:08:38: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 04:08:38: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 04:08:38: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 04:08:38: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 04:08:38: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 04:08:38: [kiwi.smx] Failed to read input auth id "", inputId
+L 05/27/2016 - 04:08:39: Error log file session closed.
+L 05/27/2016 - 04:21:56: SourceMod error session started
+L 05/27/2016 - 04:21:56: Info (map "de_dust2") (file "errors_20160527.log")
+L 05/27/2016 - 04:21:56: [SM] Exception reported: Could not connect to kiwi database: [2005]: Unknown MySQL server host 'kiir.us REMOVETHISPLEASE' (1)
+L 05/27/2016 - 04:21:56: [SM] Blaming: kiwi-mysqlstats.smx()
+L 05/27/2016 - 04:21:56: [SM] Call stack trace:
+L 05/27/2016 - 04:21:56: [SM]   [0] SetFailState
+L 05/27/2016 - 04:21:56: [SM]   [1] Line 35, kiwi-mysqlstats.sp::OnPluginStart()
+L 05/27/2016 - 04:21:56: [SM] Unable to load plugin "kiwi-mysqlstats.smx": Error detected in plugin startup (see error logs)
+L 05/27/2016 - 04:22:21: Error log file session closed.
+L 05/27/2016 - 04:34:11: SourceMod error session started
+L 05/27/2016 - 04:34:11: Info (map "de_dust2") (file "errors_20160527.log")
+L 05/27/2016 - 04:34:11: [SM] Exception reported: Could not connect to kiwi database: [2005]: Unknown MySQL server host 'kiir.us REMOVETHISPLEASE' (1)
+L 05/27/2016 - 04:34:11: [SM] Blaming: kiwi-mysqlstats.smx()
+L 05/27/2016 - 04:34:11: [SM] Call stack trace:
+L 05/27/2016 - 04:34:11: [SM]   [0] SetFailState
+L 05/27/2016 - 04:34:11: [SM]   [1] Line 35, kiwi-mysqlstats.sp::OnPluginStart()
+L 05/27/2016 - 04:34:11: [SM] Unable to load plugin "kiwi-mysqlstats.smx": Error detected in plugin startup (see error logs)
+L 05/27/2016 - 04:35:40: [kiwi.smx] Failed to load match config: Missing "team1" section in match json
+L 05/27/2016 - 04:35:40: [kiwi.smx] Failed to load match config: invalid match json
+L 05/27/2016 - 04:35:41: Error log file session closed.
+L 05/27/2016 - 04:37:12: SourceMod error session started
+L 05/27/2016 - 04:37:12: Info (map "de_dust2") (file "errors_20160527.log")
+L 05/27/2016 - 04:37:12: [SM] Exception reported: Could not connect to kiwi database: [2005]: Unknown MySQL server host 'kiir.us REMOVETHISPLEASE' (1)
+L 05/27/2016 - 04:37:12: [SM] Blaming: kiwi-mysqlstats.smx()
+L 05/27/2016 - 04:37:12: [SM] Call stack trace:
+L 05/27/2016 - 04:37:12: [SM]   [0] SetFailState
+L 05/27/2016 - 04:37:12: [SM]   [1] Line 35, kiwi-mysqlstats.sp::OnPluginStart()
+L 05/27/2016 - 04:37:12: [SM] Unable to load plugin "kiwi-mysqlstats.smx": Error detected in plugin startup (see error logs)
+L 05/27/2016 - 04:37:59: [kiwi.smx] Failed to read input auth id "ABC", inputId
+L 05/27/2016 - 04:37:59: [kiwi.smx] Failed to read input auth id "ABC", inputId
+L 05/27/2016 - 04:37:59: [kiwi.smx] Failed to read input auth id "ABC", inputId
+L 05/27/2016 - 04:37:59: [kiwi.smx] Failed to read input auth id "ABC", inputId
+L 05/27/2016 - 04:37:59: [kiwi.smx] Failed to read input auth id "ABC", inputId
+L 05/27/2016 - 04:37:59: [kiwi.smx] Failed to read input auth id "ABC", inputId
+L 05/27/2016 - 04:37:59: [kiwi.smx] Failed to read input auth id "ABC", inputId
+L 05/27/2016 - 04:37:59: [kiwi.smx] Failed to read input auth id "ABC", inputId
+L 05/27/2016 - 04:38:00: Error log file session closed.

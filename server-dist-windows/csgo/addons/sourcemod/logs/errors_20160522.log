@@ -1,0 +1,4 @@
+L 05/22/2016 - 22:59:16: SourceMod error session started
+L 05/22/2016 - 22:59:16: Info (map "de_dust2") (file "errors_20160522.log")
+L 05/22/2016 - 22:59:16: [kiwi.smx] Failed to load match config: Error receiving remote config vis system2: Couldn't resolve host 'kiir.uus'
+L 05/22/2016 - 22:59:17: Error log file session closed.

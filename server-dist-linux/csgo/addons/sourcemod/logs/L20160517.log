@@ -1,0 +1,126 @@
+L 05/17/2016 - 11:17:01: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 11:17:01: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 11:18:47: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 11:21:05: [basecommands.smx] "drop<2><STEAM_1:0:39990><>" console command (cmdline "get5_loadmatch_url http://beak.tech/match-51.json")
+L 05/17/2016 - 11:21:35: [basecommands.smx] "drop<2><STEAM_1:0:39990><>" console command (cmdline "get5_loadmatch_url beak.tech/match-51.json")
+L 05/17/2016 - 11:23:36: [basecommands.smx] "drop<2><STEAM_1:0:39990><>" console command (cmdline "get5_loadmatch_url beak.tech/match-51.json")
+L 05/17/2016 - 11:23:51: -------- Mapchange to de_cache --------
+L 05/17/2016 - 11:41:37: [basecommands.smx] "drop<2><STEAM_1:0:39990><>" console command (cmdline "exec get5/knife")
+L 05/17/2016 - 11:41:51: [basecommands.smx] "drop<2><STEAM_1:0:39990><>" console command (cmdline "exec get5/warmup")
+L 05/17/2016 - 11:41:55: [basecommands.smx] "drop<2><STEAM_1:0:39990><>" console command (cmdline "mp_restartgame 1 ")
+L 05/17/2016 - 11:43:58: Log file closed.
+L 05/17/2016 - 11:46:05: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 11:46:05: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 11:46:11: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 11:47:02: -------- Mapchange to de_cache --------
+L 05/17/2016 - 11:52:13: Log file closed.
+L 05/17/2016 - 11:52:24: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 11:52:24: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 12:13:52: Log file closed.
+L 05/17/2016 - 12:13:56: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 12:13:56: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 12:14:42: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 12:16:35: [basecommands.smx] "drop<2><STEAM_1:0:39990><>" console command (cmdline "sm_advertisements_reload")
+L 05/17/2016 - 12:18:11: -------- Mapchange to de_cache --------
+L 05/17/2016 - 12:23:18: Log file closed.
+L 05/17/2016 - 12:24:12: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 12:24:12: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 13:02:25: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 13:05:01: -------- Mapchange to de_cache --------
+L 05/17/2016 - 13:07:00: [basecommands.smx] "drop<2><STEAM_1:0:39990><>" console command (cmdline "sv_cheats 1")
+L 05/17/2016 - 13:10:15: Log file closed.
+L 05/17/2016 - 13:13:28: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 13:13:28: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 13:14:21: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 13:14:28: -------- Mapchange to de_cache --------
+L 05/17/2016 - 13:18:28: Log file closed.
+L 05/17/2016 - 13:18:32: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 13:18:32: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 13:19:04: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 13:19:11: -------- Mapchange to de_cache --------
+L 05/17/2016 - 13:39:48: [basecommands.smx] "drop<2><STEAM_1:0:39990><>" console command (cmdline "sm plugins load kiwi-damageprint")
+L 05/17/2016 - 13:40:03: [basecommands.smx] "drop<2><STEAM_1:0:39990><>" console command (cmdline "sm plugins load kiwi-damage")
+L 05/17/2016 - 13:41:27: [basecommands.smx] "drop<2><STEAM_1:0:39990><>" console command (cmdline "sm plugins load kiwi-moneyprinbt")
+L 05/17/2016 - 14:04:24: Log file closed.
+L 05/17/2016 - 14:57:36: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 14:57:36: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 14:58:35: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 14:58:42: -------- Mapchange to de_cache --------
+L 05/17/2016 - 15:04:10: Log file closed.
+L 05/17/2016 - 15:06:36: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 15:06:36: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 15:06:43: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 15:06:59: -------- Mapchange to de_cache --------
+L 05/17/2016 - 15:40:46: [basecommands.smx] "Sparks<2><STEAM_1:0:86506223><>" changed map to "shortdust"
+L 05/17/2016 - 15:40:49: [SM] Changed map to "shortdust"
+L 05/17/2016 - 15:40:52: -------- Mapchange to de_shortdust --------
+L 05/17/2016 - 15:55:24: [basecommands.smx] "drop<3><STEAM_1:0:39990><>" console command (cmdline "exit")
+L 05/17/2016 - 15:55:25: Log file closed.
+L 05/17/2016 - 17:04:36: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 17:04:36: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 17:04:59: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 17:06:50: Log file closed.
+L 05/17/2016 - 17:06:54: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 17:06:54: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 17:07:02: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 17:41:54: Log file closed.
+L 05/17/2016 - 17:41:58: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 17:41:58: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 17:42:40: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 17:42:45: -------- Mapchange to de_shortdust --------
+L 05/17/2016 - 17:47:55: Log file closed.
+L 05/17/2016 - 18:05:34: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 18:05:34: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 18:06:13: Log file closed.
+L 05/17/2016 - 18:06:41: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 18:06:41: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 18:07:17: Log file closed.
+L 05/17/2016 - 18:08:54: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 18:08:54: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 18:09:10: Log file closed.
+L 05/17/2016 - 19:04:18: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 19:04:18: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 19:04:29: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 19:05:48: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 19:05:54: -------- Mapchange to de_shortdust --------
+L 05/17/2016 - 19:10:59: Log file closed.
+L 05/17/2016 - 19:17:19: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 19:17:19: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 19:17:32: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 19:18:05: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 19:18:11: -------- Mapchange to de_shortdust --------
+L 05/17/2016 - 19:18:36: Log file closed.
+L 05/17/2016 - 19:21:03: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 19:21:03: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 19:21:16: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 19:21:22: -------- Mapchange to de_shortdust --------
+L 05/17/2016 - 19:22:44: Log file closed.
+L 05/17/2016 - 19:30:53: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 19:30:53: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 19:50:36: Log file closed.
+L 05/17/2016 - 19:50:40: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 19:50:40: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 19:51:14: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 19:51:20: -------- Mapchange to de_shortdust --------
+L 05/17/2016 - 19:56:24: Log file closed.
+L 05/17/2016 - 20:09:30: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 20:09:30: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 20:23:52: Log file closed.
+L 05/17/2016 - 20:23:57: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 20:23:57: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 20:24:53: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 20:24:58: -------- Mapchange to de_shortdust --------
+L 05/17/2016 - 20:30:02: Log file closed.
+L 05/17/2016 - 21:36:05: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 21:36:05: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 21:40:50: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 21:42:17: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 21:44:01: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 21:44:08: -------- Mapchange to de_cache --------
+L 05/17/2016 - 21:44:54: Log file closed.
+L 05/17/2016 - 21:45:19: SourceMod log file session started (file "L20160517.log") (Version "1.8.0.5893")
+L 05/17/2016 - 21:45:19: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 21:45:54: -------- Mapchange to de_dust2 --------
+L 05/17/2016 - 21:46:01: -------- Mapchange to de_cache --------
+L 05/17/2016 - 22:18:37: [basecommands.smx] "Sparks<5><STEAM_1:0:86506223><>" kicked "otters <no sound><7><STEAM_1:0:44952745><>" (reason "")
+L 05/17/2016 - 22:19:14: [basecommands.smx] "otters <no sound><17><STEAM_1:0:44952745><>" kicked "Sparks<5><STEAM_1:0:86506223><>" (reason "")

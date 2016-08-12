@@ -1,0 +1,120 @@
+L 05/20/2016 - 04:31:42: SourceMod log file session started (file "L20160520.log") (Version "1.8.0.5893")
+L 05/20/2016 - 04:31:42: -------- Mapchange to de_dust2 --------
+L 05/20/2016 - 19:11:41: Log file closed.
+L 05/20/2016 - 19:11:50: SourceMod log file session started (file "L20160520.log") (Version "1.8.0.5893")
+L 05/20/2016 - 19:11:50: -------- Mapchange to de_dust2 --------
+L 05/20/2016 - 19:15:41: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.fof.txt"
+L 05/20/2016 - 19:15:41: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 05/20/2016 - 19:15:42: -------- Mapchange to de_dust2 --------
+L 05/20/2016 - 19:15:44: [kiwi-mysqlstats.smx] Starting match id 18
+L 05/20/2016 - 19:15:49: -------- Mapchange to de_cache --------
+L 05/20/2016 - 19:17:00: [kiwi.smx] Recording to kiwi-match-18.dem
+L 05/20/2016 - 19:18:23: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:18:54: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:19:27: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:20:34: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:21:06: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:21:39: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:22:50: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:23:25: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:24:09: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:24:47: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:25:24: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:26:38: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:27:16: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:27:50: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:28:34: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:29:31: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:30:17: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:31:12: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:31:30: [basecommands.smx] "otters <no sound><3><STEAM_1:0:44952745><>" kicked "GOTV<2><BOT><>" (reason "")
+L 05/20/2016 - 19:32:31: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:33:04: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:33:39: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:34:18: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:34:50: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:35:30: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:36:18: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:36:54: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:37:26: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:38:02: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:39:01: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:39:36: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:40:33: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:41:15: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:41:50: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:43:01: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:43:36: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 19:43:50: [basecommands.smx] "otters <no sound><3><STEAM_1:0:44952745><>" kicked "drop<4><STEAM_1:0:39990><>" (reason "")
+L 05/20/2016 - 19:44:32: Log file closed.
+L 05/20/2016 - 19:44:45: SourceMod log file session started (file "L20160520.log") (Version "1.8.0.5893")
+L 05/20/2016 - 19:44:45: -------- Mapchange to de_dust2 --------
+L 05/20/2016 - 22:37:18: Log file closed.
+L 05/20/2016 - 22:37:31: SourceMod log file session started (file "L20160520.log") (Version "1.8.0.5893")
+L 05/20/2016 - 22:37:31: -------- Mapchange to de_dust2 --------
+L 05/20/2016 - 22:45:58: Log file closed.
+L 05/20/2016 - 22:46:10: SourceMod log file session started (file "L20160520.log") (Version "1.8.0.5893")
+L 05/20/2016 - 22:46:10: -------- Mapchange to de_dust2 --------
+L 05/20/2016 - 22:52:09: Log file closed.
+L 05/20/2016 - 22:52:22: SourceMod log file session started (file "L20160520.log") (Version "1.8.0.5893")
+L 05/20/2016 - 22:52:22: -------- Mapchange to de_dust2 --------
+L 05/20/2016 - 22:53:31: -------- Mapchange to de_dust2 --------
+L 05/20/2016 - 22:53:40: [kiwi-mysqlstats.smx] Starting match id 19
+L 05/20/2016 - 22:53:45: -------- Mapchange to de_cache --------
+L 05/20/2016 - 22:55:40: Log file closed.
+L 05/20/2016 - 22:55:53: SourceMod log file session started (file "L20160520.log") (Version "1.8.0.5893")
+L 05/20/2016 - 22:55:53: -------- Mapchange to de_dust2 --------
+L 05/20/2016 - 22:59:20: -------- Mapchange to de_dust2 --------
+L 05/20/2016 - 22:59:22: [kiwi-mysqlstats.smx] Starting match id 20
+L 05/20/2016 - 22:59:26: -------- Mapchange to workshop/573735281/de_deafesl_castle --------
+L 05/20/2016 - 23:00:39: [kiwi.smx] Recording to kiwi-match-20.dem
+L 05/20/2016 - 23:02:43: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:03:52: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:04:24: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:05:12: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:05:43: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:06:46: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:07:49: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:08:57: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:09:54: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:10:21: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:10:38: Log file closed.
+L 05/20/2016 - 23:10:52: SourceMod log file session started (file "L20160520.log") (Version "1.8.0.5893")
+L 05/20/2016 - 23:10:52: -------- Mapchange to de_dust2 --------
+L 05/20/2016 - 23:19:11: Log file closed.
+L 05/20/2016 - 23:19:23: SourceMod log file session started (file "L20160520.log") (Version "1.8.0.5893")
+L 05/20/2016 - 23:19:23: -------- Mapchange to de_dust2 --------
+L 05/20/2016 - 23:23:34: Log file closed.
+L 05/20/2016 - 23:23:48: SourceMod log file session started (file "L20160520.log") (Version "1.8.0.5893")
+L 05/20/2016 - 23:23:48: -------- Mapchange to de_dust2 --------
+L 05/20/2016 - 23:24:15: -------- Mapchange to de_dust2 --------
+L 05/20/2016 - 23:24:17: [kiwi-mysqlstats.smx] Starting match id 21
+L 05/20/2016 - 23:24:32: -------- Mapchange to de_santorini --------
+L 05/20/2016 - 23:26:35: [kiwi.smx] Recording to kiwi-match-21.dem
+L 05/20/2016 - 23:28:31: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:29:20: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:30:42: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:32:39: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:33:52: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:34:33: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:35:05: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:36:49: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:37:19: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:37:52: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:40:03: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:41:38: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:42:08: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:42:42: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:43:39: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:44:18: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:45:16: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:46:01: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:46:46: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:47:22: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:48:21: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:49:27: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:50:29: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:52:02: [kiwi-mysqlstats.smx] UpdateRoundStats map 0
+L 05/20/2016 - 23:52:59: Log file closed.
+L 05/20/2016 - 23:53:12: SourceMod log file session started (file "L20160520.log") (Version "1.8.0.5893")
+L 05/20/2016 - 23:53:12: -------- Mapchange to de_dust2 --------
