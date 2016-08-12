@@ -1,7 +1,7 @@
 //#pragma newdecls required
 #pragma semicolon 1
 
-#define DEBUG 1
+#define DEBUG 0
 
 #define PLUGIN_AUTHOR "drop"
 #define PLUGIN_VERSION "0.01"

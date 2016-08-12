@@ -26,7 +26,7 @@ public Plugin myinfo = {
 public void OnPluginStart() {
     g_hEnabled = CreateConVar("sm_damageprint_enabled", "1", "Whether the plugin is enabled");
     g_hAllowDmgCommand = CreateConVar("sm_damageprint_allow_dmg_command", "0", "Whether players can type .dmg to see damage done");
-    g_hTitleFormat = CreateConVar("sm_damageprint_title_format", "[{YELLOW}KIWI{NORMAL}] Damage Outline", "Format of the title above the damage output.");
+    g_hTitleFormat = CreateConVar("sm_damageprint_title_format", "[{ORANGE}KIWI{NORMAL}] Damage Outline", "Format of the title above the damage output.");
     g_hMessageFormat = CreateConVar("sm_damageprint_format", "--> ({GREEN}{DMG_TO}{NORMAL} dmg / {HITS_TO} hits) to {NAME} ({RED}{HEALTH}{NORMAL} HP)", "Format of the damage output string. Avaliable tags are in the default, color tags such as {LIGHT_RED} and {GREEN} also work.");
 
     AutoExecConfig();

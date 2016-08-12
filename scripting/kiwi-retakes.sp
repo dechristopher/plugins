@@ -590,6 +590,19 @@ public Action Event_RoundPreStart(Handle event, const char[] name, bool dontBroa
         g_BombOwner = player;
     }
     delete ts;
+
+    PrintHintTextToAll("<font size='60'><font color='#FFCC66'>&gt;&gt; </font><font color='#00FF00'>%s</font> <font color='#FFCC66'>&lt;&lt;</font></font>", SITESTRING(g_Bombsite));
+}
+
+public Action Event_RoundStart(Event event, const char[] name, bool dontBroadcast) {
+    if (!Retakes_Live()) {
+        return;
+    }
+
+    if (!g_EditMode) {
+        PrintHintTextToAll("<font size='60'><font color='#FFCC66'>&gt;&gt; </font><font color='#00FF00'>%s</font> <font color='#FFCC66'>&lt;&lt;</font></font>", SITESTRING(g_Bombsite));
+        //PrintHintTextToAll("<font size='50' color='#00FF00'>Retake %s</font>", SITESTRING(g_Bombsite));
+    }
 }
 
 public Action Event_RoundPostStart(Handle event, const char[] name, bool dontBroadcast) {
@@ -599,10 +612,18 @@ public Action Event_RoundPostStart(Handle event, const char[] name, bool dontBro
 
     if (!g_EditMode) {
         GameRules_SetProp("m_iRoundTime", g_hRoundTime.IntValue, 4, 0, true);
+        PrintHintTextToAll("<font size='60'><font color='#FFCC66'>&gt;&gt; </font><font color='#00FF00'>%s</font> <font color='#FFCC66'>&lt;&lt;</font></font>", SITESTRING(g_Bombsite));
+        CreateTimer(5.0, Timer_PrintBombsite);
+        //PrintHintTextToAll("<font size='50' color='#00FF00'>Retake %s</font>", SITESTRING(g_Bombsite));
         Retakes_MessageToAll("%t", "RetakeSiteMessage", SITESTRING(g_Bombsite), g_NumT, g_NumCT);
     }
 
     g_bombPlanted = false;
+}
+
+public Action Timer_PrintBombsite(Handle timer)
+{
+    PrintHintTextToAll("<font size='60'><font color='#FFCC66'>&gt;&gt; </font><font color='#00FF00'>%s</font> <font color='#FFCC66'>&lt;&lt;</font></font>", SITESTRING(g_Bombsite));
 }
 
 /**

@@ -1,4 +1,4 @@
-9#tryinclude "manual_version.sp"
+#tryinclude "manual_version.sp"
 #if !defined PLUGIN_VERSION
 #define PLUGIN_VERSION "0.3.2-dev"
 #endif

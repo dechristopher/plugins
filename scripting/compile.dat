@@ -135,7 +135,7 @@ Age=1212593260
 [kiwi-connectinfo.sp]
 Age=1212638007
 [kiwi-dmgprint.sp]
-Age=1219822578
+Age=1225558502
 [kiwi-moneyprint.sp]
 Age=1219953696
 [kiwi-ringerinfo.sp]
@@ -145,7 +145,7 @@ Age=1218601603
 [zmute.sp]
 Age=1218603855
 [kiwi-deathmute.sp]
-Age=1225339804
+Age=1225365644
 [kiwi-suicideblock.sp]
 Age=1218606350
 [kiwi-blockradio.sp]
@@ -172,3 +172,11 @@ Age=959691179
 Age=1220050600
 [Rename2.sp]
 Age=1219628132
+[kiwi-retakes.sp]
+Age=1225561553
+[retakes_pistolallocator.sp]
+Age=1221560891
+[retakes_sitepicker.sp]
+Age=1221560891
+[retakes_standardallocator.sp]
+Age=1221560891
