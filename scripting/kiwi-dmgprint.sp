@@ -20,7 +20,7 @@ public Plugin myinfo = {
     author = "drop",
     description = "Writes out player damage on round end or when .dmg is used",
     version = "1.0.0",
-    url = "http://kiir.us"
+    url = "https://kiir.us"
 };
 
 public void OnPluginStart() {

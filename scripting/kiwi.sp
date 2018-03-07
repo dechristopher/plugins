@@ -11,6 +11,11 @@
 #include <system2>
 #include <smjansson>
 #include <advanced_motd>
+#include <steamtools>
+
+
+
+#define CURL_DEFAULT_OPT(%1) curl_easy_setopt_int_array(%1, CURL_Default_opt, sizeof(CURL_Default_opt))
 #define REMOTE_CONFIG_FILENAME "remote.json"
 
 #define LIVE_TIMER_INTERVAL 1.0
@@ -297,6 +302,16 @@ public void OnPluginStart() {
     /** Start any repeating timers **/
     CreateTimer(LIVE_TIMER_INTERVAL, Timer_CheckReady, _, TIMER_REPEAT);
     CreateTimer(INFO_MESSAGE_TIMER_INTERVAL, Timer_InfoMessages, _, TIMER_REPEAT);
+
+    // HTTPRequestHandle hPost = Steam_CreateHTTPRequest(HTTPMethod_POST, "http://192.168.1.12:3000/api/matchover");
+    // Steam_SetHTTPRequestGetOrPostParameter( hPost, "matchid", "5" );
+    // Steam_SetHTTPRequestGetOrPostParameter( hPost, "winningteam", "yesdos" );
+    // Steam_SendHTTPRequest( hPost, HTTPRequestComplete );
+}
+
+public HTTPRequestComplete(HTTPRequestHandle HTTPRequest, bool requestSuccessful, HTTPStatusCode statusCode) {
+        Get5_MessageToAll("Sent endmatch request");
+        return;
 }
 
 public Action Timer_InfoMessages(Handle timer) {
@@ -913,6 +928,16 @@ public Action Timer_EndSeries(Handle timer) {
     }
 
     Stats_SeriesEnd(winningTeam);
+
+    // new Handle:curl = curl_easy_init();
+    // if(curl != INVALID_HANDLE)
+    // {
+    //     CURL_DEFAULT_OPT(curl);
+    //     curl_easy_setopt_string(curl, CURLOPT_URL, "http://kiir.us:3000/api/matchover/?id=" + g_MatchID + "&winner=" + winningTeam);
+    //     ExecCURL(curl,current_test);
+    // } else {
+    //     PrintCreatecUrlError(current_test);
+    // }
 
     Call_StartForward(g_OnSeriesResult);
     Call_PushCell(winningTeam);

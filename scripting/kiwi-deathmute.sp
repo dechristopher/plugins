@@ -20,7 +20,7 @@ public Plugin myinfo =
     author = PLUGIN_AUTHOR, 
     description = "Mutes players shortly after death.",
     version = PLUGIN_VERSION, 
-    url = "https://forums.alliedmods.net/showthread.php?t=265713"
+    url = "https://kiir.us"
 };
 
 Handle g_hCvarCalloutDuration;
