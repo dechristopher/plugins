@@ -193,7 +193,7 @@ public OnClientDisconnect(userid)
 		SavePlayer(userid);
 		// and uninitialize them
 		g_initialized[userid] = false;
-		g_NumClients--;
+		// g_NumClients--;
 	}
 }
 
@@ -206,13 +206,29 @@ public OnClientAuthorized(client, const String:steamid[])
 		Format(g_steamid[client], MAX_STEAMID_LENGTH, steamid);
 		GetClientName(client, g_name[client], MAX_NAME_LENGTH);
 		GetPlayerBySteamId(steamid, LoadPlayerCallback, client);
-		g_NumClients++;
+		// g_NumClients++;
 	}
 }
 
+GetAlivePlayersCount()
+{
+  decl iCount, i; iCount = 0;
+
+  for( i = 1; i <= MaxClients; i++ )
+    if( IsClientInGame( i ) && IsPlayerAlive( i ) /*&& GetClientTeam( i ) == iTeam*/ )
+      iCount++;
+
+  return iCount;
+}  
+
 public OnRoundStart(Handle:event, const String:name[], bool:dontBroadcast) 
 { 
-    if(g_NumClients < 4) {
+	// decl String:info[128];
+	g_NumClients = GetAlivePlayersCount()
+	// Format(info, 128, "Alive players: %i", g_NumClients)
+	// PrintToChatAll(info)
+
+	if(g_NumClients < 4) {
     	// Disable stats collection
     	if(g_enabled == 0) {
     		return;
